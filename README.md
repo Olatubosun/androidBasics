@@ -1,6 +1,5 @@
 # androidBasics
-assignments of android basics 
-part_2
+
 <LinearLayout
 	android:orientation="vertical"
     android:layout_width="wrap_content"
